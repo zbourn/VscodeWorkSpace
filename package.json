@@ -1,0 +1,12 @@
+{
+  "name": "jwtsign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jwt.js",
+  "scripts": {
+    "start": "node jwt.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
